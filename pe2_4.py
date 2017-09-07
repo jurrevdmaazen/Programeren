@@ -7,5 +7,4 @@ uur_loon = input ("wat verdien je per uur: " )
 
 uren_gewerkt = input ("Hoeveel uur heb je gewerkt: ")
 
-
 print (uren_gewerkt + " uur werken levert " + str((float(uur_loon) * float(uren_gewerkt))) + " euro op")
